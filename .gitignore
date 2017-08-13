@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+node_modules
+keys.js
+.idea/
